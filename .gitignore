@@ -1,0 +1,17 @@
+# 相关环境
+.venv/
+.vscode/
+
+.env
+
+# 源数据
+data/
+
+# 结果与中间产物
+results/
+cache/
+__pycache__/
+.ipynb_checkpoints/
+
+# 分析
+review/
